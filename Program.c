@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 struct job{
+	
 	int pid;
 	int at;
 	int bt;
